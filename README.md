@@ -38,5 +38,6 @@ This project automates the Check-In and Check-Out process on your HRM portal usi
 ## Bot Usage
 
 From Telegram, just text your bot:
-- `checkin`
-- `checkout`
+- `checkin or in`
+- `checkout or out`
+- `status`
